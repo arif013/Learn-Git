@@ -4,6 +4,7 @@ Test Repo 4 Learning Git
 
 ![](https://www.apple.com/newsroom/images/product/mac/standard/Apple_MacBook-Pro_14-16-inch_10182021_big.jpg.large.jpg)
 
-```js
-console.log('hi');
+```py
+import os
+os.system('firefox www.google.com')
 ```
